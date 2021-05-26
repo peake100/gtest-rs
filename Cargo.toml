@@ -1,0 +1,13 @@
+[package]
+name = "occlib"
+version = "0.1.2"
+description = "A Rust Library Template for the Open Cinema Collective"
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/opencinemac/occlib-rs"
+authors = [ "Open Cinema Collective", "Billy Peake",]
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
